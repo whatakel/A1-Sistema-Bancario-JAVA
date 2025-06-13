@@ -16,6 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import model.Conta;
+import model.Transacao;
 import model.usuario.*;
 
 public class Persistencia {

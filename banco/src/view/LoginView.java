@@ -2,6 +2,7 @@ package view;
 
 import controller.AutenticacaoController;
 import model.usuario.Usuario;
+import util.InputHelper;
 
 
 public class LoginView {

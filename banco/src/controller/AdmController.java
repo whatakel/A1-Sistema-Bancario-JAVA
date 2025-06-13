@@ -1,6 +1,8 @@
 package controller;
 
 import model.Conta;
+import model.usuario.Cliente;
+import model.usuario.Gerente;
 import model.usuario.Usuario;
 import util.Persistencia;
 

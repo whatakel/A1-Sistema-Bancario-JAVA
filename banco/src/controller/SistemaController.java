@@ -4,8 +4,13 @@ import java.util.List;
 import java.util.Scanner;
 
 import model.Conta;
+import model.Transacao;
+import model.usuario.Cliente;
+import model.usuario.Gerente;
 import model.usuario.Usuario;
 import model.usuario.Adm;
+import view.ClienteView;
+import view.GerenteView;
 import view.LoginView;
 import view.AdmView;
 import util.Persistencia;
