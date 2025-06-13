@@ -1,0 +1,21 @@
+[
+  {
+    "tipo": "Adm",
+    "nome": "Administrador",
+    "cpf": "00000000000",
+    "email": "adm",
+    "senha": "adm"
+  },
+  {
+    "tipo": "Cliente",
+    "conta": {
+      "cpfDono": "123456",
+      "saldo": 0.0,
+      "transacoes": []
+    },
+    "nome": "le",
+    "cpf": "123456",
+    "email": "le@gmail.com",
+    "senha": "oi"
+  }
+]
